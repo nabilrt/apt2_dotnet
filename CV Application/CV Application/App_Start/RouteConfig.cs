@@ -16,8 +16,24 @@ namespace CV_Application
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Student", action = "Index", id = UrlParameter.Optional }
             );
+
+            routes.MapRoute(
+              name: "Education",
+              url: "{controller}/{action}/{id}",
+              defaults: new { controller = "Student", action = "Education", id = UrlParameter.Optional }
+          );
+            routes.MapRoute(
+              name: "Projects",
+              url: "{controller}/{action}/{id}",
+              defaults: new { controller = "Student", action = "Projects", id = UrlParameter.Optional }
+          );
+            routes.MapRoute(
+              name: "References",
+              url: "{controller}/{action}/{id}",
+              defaults: new { controller = "Student", action = "References", id = UrlParameter.Optional }
+          );
         }
     }
 }
