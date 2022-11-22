@@ -1,0 +1,15 @@
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\obj\Debug\EcommerceBussinessLogicLayer.csproj.AssemblyReference.cache
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\obj\Debug\EcommerceBussinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\EcommerceBussinessLogicLayer.dll.config
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\EcommerceBussinessLogicLayer.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\EcommerceBussinessLogicLayer.pdb
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\AutoMapper.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\EcommerceDataAccessLayer.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\EcommerceDataAccessLayer.pdb
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\EcommerceDataAccessLayer.dll.config
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\AutoMapper.xml
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\obj\Debug\EcommerceBussinessLogicLayer.csproj.CopyComplete
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\obj\Debug\EcommerceBussinessLogicLayer.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceBussinessLogicLayer\obj\Debug\EcommerceBussinessLogicLayer.pdb

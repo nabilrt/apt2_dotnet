@@ -1,0 +1,10 @@
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\bin\Debug\EcommerceDataAccessLayer.dll.config
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\bin\Debug\EcommerceDataAccessLayer.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\bin\Debug\EcommerceDataAccessLayer.pdb
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\obj\Debug\EcommerceDataAccessLayer.csproj.AssemblyReference.cache
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\obj\Debug\EcommerceDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\obj\Debug\EcommerceDataAccessLayer.csproj.CopyComplete
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\obj\Debug\EcommerceDataAccessLayer.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\Ecommerce\EcommerceDataAccessLayer\obj\Debug\EcommerceDataAccessLayer.pdb
