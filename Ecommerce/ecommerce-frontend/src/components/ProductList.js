@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import "../bootstrap/bootstrap-5.0.2-dist/css/bootstrap.min.css";
 import axios from "axios";
 
 const ProductList = () => {

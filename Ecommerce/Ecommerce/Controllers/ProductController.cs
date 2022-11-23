@@ -43,5 +43,15 @@ namespace Ecommerce.Controllers
             var data = ProductServices.AddProduct(product);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
+
+        [EnableCors("*", "*", "*")]
+        [Route("api/product/addpr")]
+        [HttpPost]
+
+        public HttpResponseMessage addProd(ProductModel product)
+        {
+            var data = ProductServices.AddProduct(product);
+            return Request.CreateResponse(HttpStatusCode.OK, data);
+        }
     }
 }

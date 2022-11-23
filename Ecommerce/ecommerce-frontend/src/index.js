@@ -5,11 +5,15 @@ import reportWebVitals from "./reportWebVitals";
 import Header from "./components/Header";
 import Home from "./components/Home";
 import ProductList from "./components/ProductList";
+import AddProduct from "./components/AddProduct";
+import { BrowserRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <ProductList />
+    <BrowserRouter>
+      <AddProduct />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
