@@ -44,13 +44,21 @@ namespace Ecommerce.Controllers
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
 
-        [EnableCors("*", "*", "*")]
-        [Route("api/product/addpr")]
-        [HttpPost]
-
-        public HttpResponseMessage addProd(ProductModel product)
+        [EnableCors("*","*","*")]
+        [Route("api/product/delete/{id}")]
+        [HttpGet]
+        public HttpResponseMessage deleteProduct(int id)
         {
-            var data = ProductServices.AddProduct(product);
+            var data=ProductServices.RemoveProduct(id);
+            return Request.CreateResponse(HttpStatusCode.OK, data);
+        }
+
+        [EnableCors("*", "*", "*")]
+        [Route("api/product/edit")]
+        [HttpPost]
+        public HttpResponseMessage editProduct(ProductModel product)
+        {
+            var data = ProductServices.updateProduct(product);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
     }
