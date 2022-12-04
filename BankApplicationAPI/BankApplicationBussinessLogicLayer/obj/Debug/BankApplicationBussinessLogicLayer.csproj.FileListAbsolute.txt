@@ -1,0 +1,14 @@
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\bin\Debug\BankApplicationBussinessLogicLayer.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\bin\Debug\BankApplicationBussinessLogicLayer.pdb
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\bin\Debug\AutoMapper.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\bin\Debug\BankApplicationDataAccessLayer.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\bin\Debug\BankApplicationDataAccessLayer.pdb
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\bin\Debug\BankApplicationDataAccessLayer.dll.config
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\bin\Debug\AutoMapper.xml
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\obj\Debug\BankApplicationBussinessLogicLayer.csproj.AssemblyReference.cache
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\obj\Debug\BankApplicationBussinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\obj\Debug\BankApplicationBussinessLogicLayer.csproj.CopyComplete
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\obj\Debug\BankApplicationBussinessLogicLayer.dll
+E:\Semesters\Fall 2022-2023\.NET Lab\BankApplicationAPI\BankApplicationBussinessLogicLayer\obj\Debug\BankApplicationBussinessLogicLayer.pdb
